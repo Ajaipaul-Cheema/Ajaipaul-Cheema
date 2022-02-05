@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ajaipaul-Cheema
-- 👀 I’m interested in software engineering and app development.
+- 👋 Hi, I’m Ajaipaul Cheema
+- 👀 I’m interested in software engineering, app development and cloud technologies.
 - 📫 I can be contacted at aca242@sfu.ca or 778-917-2972.
 
 <!---
